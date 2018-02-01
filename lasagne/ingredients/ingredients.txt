@@ -1,4 +1,6 @@
 tomatoes
-cheese
+ricotta
 noodles
 basil
+garlic
+mozarella
